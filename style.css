@@ -1,4 +1,7 @@
-body,
+body {
+background-color: #383a59;
+}
+
 html {
   width: 100%;
   height: 100%;

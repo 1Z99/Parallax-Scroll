@@ -1,7 +1,16 @@
 body {
   background: #111;
-  font-weight: 300;
+  font-weight: 300; }
+
+#githubicon {
+  transition: all 0.2s;
+  cursor: pointer;
 }
+
+#githubicon:hover {
+  transform: scale(1.2, 1.2);
+}
+
 .background {
   position: fixed;
   width: 100%;
